@@ -219,5 +219,3 @@ UserInputService.InputBegan:Connect(function(k, g)
         tween:Play()
     end
 end)
-print("thanks for using this cript")
-print("Script made by:SimpleCheats:)
